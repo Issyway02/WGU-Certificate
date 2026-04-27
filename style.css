@@ -83,7 +83,7 @@ header{
     height: 516.8px;
     display: flex;
     flex-direction: column;
-    padding-left: 130px;
+    padding-left: 110px;
 
 }
 
@@ -91,6 +91,7 @@ header{
     color: aliceblue;
     font-family: 'Oswald', sans-serif, Arial;
     font-size: 22px;
+    padding-top: 130px;
     
 }
 
@@ -101,10 +102,39 @@ header{
     padding-top: 20px;
 
 }
-.p2{
+.bro{
+    display: flex;
+    justify-content: start;
     padding-top: 30px;
-    border: 5px solid aliceblue;
+    /* width: 20000px; */
+}
+.p2{
+    border: 6px solid #0070F0;
+    /* border: 5px solid aliceblue; */
+        font-family: sans-serif, Arial;
     display: flex;
     flex-wrap: wrap;
+    color: white;
+    font-size: 13px;
+       border: 10px solid #0070F0;
+    border-radius: 30px;
+    color: white;
+    background-color: #0070F0;
 }
+    .class4{
+        padding-top: 82px;
+        display: flex;
+        justify-content: center;
+    }
+
+.p3{
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif, Arial;
     
+}
+.p4{
+    font-size: 17px;
+    font-family: 'Quicksand', sans-serif, Arial;
+    /* padding-top: 10px; */
+    padding-bottom: 20px;
+}
